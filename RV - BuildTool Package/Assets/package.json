@@ -1,0 +1,24 @@
+{
+  "name": "com.rv.buildtoolpackage",
+  "version": "1.0.0",
+  "displayName": "Unity Build Tool",
+  "description": "This is an package for the Unity Build Tool",
+  "unity": "6000.0",
+  "documentationUrl": "https://github.com/RomanVitolo/RV-MultiBuildTool",
+  "keywords": [
+    "library",
+    "utility",
+    "template"
+  ],
+  "samples": [
+    {
+      "displayName": "Samples",
+      "description": "Just a Test Scene",
+      "path" : "Samples~/MultipleBuildsDemo"
+    }
+  ],
+  "author": {
+    "name": "Roman Vitolo",
+    "url": "https://romanvitolo.com"
+  }
+}
