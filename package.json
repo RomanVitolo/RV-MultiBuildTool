@@ -5,6 +5,9 @@
   "description": "This is an package for the Unity Build Tool",
   "unity": "6000.0",
   "documentationUrl": "https://github.com/RomanVitolo/RV-MultiBuildTool",
+  "dependencies": {
+    "com.unity.editorcoroutines": "1.0.0"
+  },
   "keywords": [
     "library",
     "utility",
